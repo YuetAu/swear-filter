@@ -16,6 +16,7 @@ use s9e\TextFormatter\Configurator;
 return [
     (new Extend\Formatter)
         ->configure(function (Configurator $configurator) {
+          $configurator->Censor->add("*小你老母*", "Hi, Auntie");
           $configurator->Censor->add("小你老母", "Hi, Auntie");
           $configurator->Censor->add("吊你老母", "Hi, Auntie");
           $configurator->Censor->add("小你老味", "廣西燒味");
