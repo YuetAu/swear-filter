@@ -25,9 +25,9 @@
     "flarum-extension": {
       "title": "Swear Filter",
       "icon": {
-        "name": "",
-        "backgroundColor": "",
-        "color": ""
+        "name": "fas fa-ribbon",
+        "backgroundColor": "#000",
+        "color": "#fff"
       }
     },
     "flagrow": {
