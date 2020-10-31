@@ -1,6 +1,6 @@
 # Swear Filter
 
-![cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg [![Latest Stable Version](https://img.shields.io/packagist/v/yuetau/swear-filter.svg)](https://packagist.org/packages/yuetau/swear-filter)
+![Packagist License](https://img.shields.io/packagist/l/yuetau/swear-filter) [![Latest Stable Version](https://img.shields.io/packagist/v/yuetau/swear-filter.svg)](https://packagist.org/packages/yuetau/swear-filter)
 
 A [Flarum](http://flarum.org) extension. To censor Cantonese bad words.
 
